@@ -1,4 +1,4 @@
-## Let's learn!
+## Gitting started..
 ### 💫 About Me:
 🔭 A data-driven professional with a background in architecture. Excited to leverage my architectural experience in critical analysis and problem-solving to contribute to data-driven solutions and innovations in my new role as a data scientist.<br>🌱 I’m currently learning Computer vision and NLP and interested in learning about GenAI
 
