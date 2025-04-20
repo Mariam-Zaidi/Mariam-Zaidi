@@ -1,6 +1,11 @@
 ## Gitting started..
 ### 💫 About Me:
-🔭 A data-driven professional with a background in architecture. Excited to leverage my architectural experience through critical analysis and problem-solving to contribute to data-driven solutions and innovations in my new role as a data scientist.<br>🌱 I’m currently learning Computer vision and NLP and interested in learning about GenAI
+🔍 I’m a data enthusiast with a strong interest in solving business problems through data-driven insights.  
+📊 Skilled in Python, SQL, Power BI, and Machine Learning — I enjoy transforming raw data into meaningful stories!  
+🤖 Currently exploring: Deep Learning, GenAI.  
+💡 I love building clean, insightful projects that apply to real-world scenarios, especially in  SaaS, eCommerce, Healthcare, and Digital Media.  
+🌱 Constantly learning & open to collaborations on data science, analytics, and AI projects.  
+
 
 
 ## 🌐 Socials:
